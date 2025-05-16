@@ -138,6 +138,3 @@ The Todo List Application demonstrates effective implementation of a task manage
    - Use numbers 1-8 for menu options
    - Enter valid text for task titles and descriptions
    - Use existing task IDs for operations
-
-## License
-This project is open source and available under the MIT License. 
